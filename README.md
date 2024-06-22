@@ -6,4 +6,4 @@ Vatan Bilgisayar sitesinden "Telefon" modellerinin, isimlerinin, fiyatının, yo
 - BeautifulSoup
 - Requests
 - Time
-- Panas
+- Pandas
